@@ -17,5 +17,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
 # bus_ticket_booking_frontend
-This is the frontend of my bus ticket booking system which is my semester project of course DBMS .
+This is the frontend of my bus ticket booking system which is my semester Project of course DBMS .
 >>>>>>> 9b4cb5bec3718bada358c6ac47772931173fc048
